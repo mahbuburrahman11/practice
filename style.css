@@ -22,12 +22,12 @@ body{
 }
 h1{
     font-size: 70px;
-    padding-top: 1cm;
+    padding-top: cm;
     margin-left: 5px;
     width: 500px;
 }
 p{
-   
+   margin-bottom: 1cm;
 }
 .link-button{
     text-decoration: none;
@@ -41,6 +41,10 @@ p{
    background-image: url(img/shapes/7.png);
    background-repeat: no-repeat;
    background-size: cover;
+}
+.phara{
+    width: 500px;
+    margin-bottom: 2cm;
 }
 .bgpic{
        
